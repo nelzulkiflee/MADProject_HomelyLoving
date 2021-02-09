@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753542574688",
+    "project_id": "homely-loving",
+    "storage_bucket": "homely-loving.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753542574688:android:5143bfdf4edbb2eeb64905",
+        "android_client_info": {
+          "package_name": "com.nellyzulkiflee.homelyloving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753542574688-r1sq1s29ac9g5jl2toeig7pgenbn99cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjg3_6dt2G4LFsw_rNK0jo48O-rXCrAUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753542574688-r1sq1s29ac9g5jl2toeig7pgenbn99cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
